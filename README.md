@@ -2,7 +2,7 @@
 
 A small Windows desktop app for hiding text inside PNG images (LSB steganography) and reading it back out.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](docs/screenshot.PNG)
 
 ## Features
 
